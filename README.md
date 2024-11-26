@@ -33,6 +33,8 @@ In the Code:
 The Reservation class encapsulates the customer's details, service, date, and time.
 Fields such as firstName, lastName, contactNumber, date, and time are declared private. These fields can only be accessed or modified via getter and setter methods (though not explicitly defined in this code, we use toString() for controlled access).
 
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Encapsulation.png)
+
 ###### 2. Abstraction
 
 Definition: Abstraction hides complex implementation details and exposes only the essential features. It focuses on what an object does rather than how it does it.
