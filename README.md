@@ -22,6 +22,8 @@ The Massage Reservation Management System is a Java-based application that simpl
 
 ## Concepts Explanation
 
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Principles.png)
+
 ###### 1. Encapsulation
 
 Definition: Encapsulation is the bundling of data (variables) and methods (functions) that operate on the data into a single unit, typically a class. It also involves restricting access to certain details by using access modifiers like private, protected, and public.
