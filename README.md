@@ -94,15 +94,27 @@ You can run the Java program using the java command and you’ll see a menu in t
 
 ###### Choice 1
 
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Choice%201.png)
+
 ###### Choice 2
 
-###### Choice 3
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Choice%202.png)
 
 ###### Conflict Schedule
 
-###### Choice View
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Conflict%20Schedule.png)
+
+###### Choice 3
+
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Choice%203.png)
+
+###### Choice view
+
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Choice%20View.png)
 
 ###### Choice 4
+
+![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Choice%204.png)
 
 ## Acknowledgement
 
