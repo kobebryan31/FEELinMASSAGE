@@ -1,4 +1,4 @@
-# Massage Reservation Management System
+# <div align="center"> Massage Reservation Management System </div>
 
 <div align="center">
   <img src="https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Logo.jpg" alt="Logo" />
@@ -118,3 +118,14 @@ You can run the Java program using the java command and you’ll see a menu in t
 
 ## Acknowledgement
 
+##### I would like to express my heartfelt gratitude to the following individuals and institutions for their invaluable support and guidance throughout the completion of this project:
+
+**Batangas State University:** For providing me with an excellent education and a platform to develop my skills and knowledge. The university has been instrumental in shaping my growth as a learner and a professional.
+
+**Sir Maurice Oliver Macatanagay:** My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
+
+**My Family:** For their unconditional love, support, and understanding. Their encouragement and belief in my abilities have been my driving force to excel and complete this undertaking.
+
+**My Girlfriend:** For her love, support, understanding, encouragement and belief in my abilities.
+
+**The Almighty God:** For His infinite wisdom, strength, and blessings. It is through His grace and guidance that I was able to overcome challenges and achieve this success.
