@@ -6,23 +6,23 @@
 
 ## Table of Contents
 
-Overview
+[Overview](#overview)
 
-Concepts Explanation
+[Concepts_Explanation](#concepts_explanation)
 
-SDG Integration
+[SDG_Integration](#sdg_integration)
 
-Instructions
+[Instructions](#instructions)
 
-Sample Output
+[Sample_Output](#sample_output)
 
-Acknowledgement
+[Acknowledgement](#acknowledgement)
 
 ## Overview
 
 The **Massage Reservation Management System** is a Java-based application that simplifies the booking process for massage services. It is designed to showcase the principles of Object-Oriented Programming (OOP) while meeting practical requirements for managing reservations in a real-world setting, such as a spa or wellness center.
 
-## Concepts Explanation
+## Concepts_Explanation
 
 <div align="center">
 <img src="https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Principles.png" alt="Image" style="width: 50%; height: auto;" />
@@ -70,7 +70,7 @@ The Service class is the base type for all massage services. An array of Service
 
 ![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/Polymorphism.png)
 
-## SDG Integration
+## SDG_Integration
 
 ![image](https://github.com/kobebryan31/FEELinMASSAGE/blob/main/Image/SDG%203%20Good%20Health%20and%20Well-Being.jpg)
 
@@ -90,7 +90,7 @@ You can run the Java program using the java command and you’ll see a menu in t
 
 **Exit:** Select to exit the terminal.
 
-## Sample Output
+## Sample_Output
 
 ###### Choice 1
 
