@@ -124,7 +124,7 @@ You can run the Java program using the java command and you’ll see a menu in t
 
 **Batangas State University:** For providing me with an excellent education and a platform to develop my skills and knowledge. The university has been instrumental in shaping my growth as a learner and a professional.
 
-**Sir Maurice Oliver Macatanagay:** My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
+**Sir Maurice Oliver Macatangay:** My dedicated instructor, whose unwavering guidance, constructive feedback, and encouragement have been crucial in the successful development of this project. Thank you for your patience, expertise, and inspiration.
 
 **My Family:** For their unconditional love, support, and understanding. Their encouragement and belief in my abilities have been my driving force to excel and complete this undertaking.
 
